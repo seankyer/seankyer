@@ -5,6 +5,9 @@
 *If you are coming from my resume, here are the projects you may be interested in seeing:*
 1. https://github/seankyer/SuChef
    1. Recipe manager, cooking assistant, made with Java
+   
+1. https://github/seankyer/hangman
+   1. Console based hangman game made with Python w/ test oriented approach
 1. https://github/seankyer/snakegame
    1. A simple console based snake game made with Python
    
