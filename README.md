@@ -8,8 +8,8 @@
    
 1. https://github.com/seankyer/Hangman
    1. Console based hangman game made with Python w/ test oriented approach
-1. https://github.com/seankyer/snakegame
-   1. A simple console based snake game made with Python
+1. https://github.com/seankyer/autoExcel
+   1. A variable data generator for excel documents. Created this script to automate mannual data entry at Metro Printers.
    
 #### Contact information ✨:
 * sean.actor@gmail.com
