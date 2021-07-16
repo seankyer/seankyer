@@ -2,7 +2,7 @@
 
 ## Welcome to my Github repository ⚡
 -------------------------------------
-*If you are coming from my resume, here are the projects you may be interested in seeing:*
+*My Favorite Projects:*
 1. https://github.com/seankyer/safeway_smart_csv
    1. CSV data extrapolator, to help improve workflow at Metro Printers
    2. Includes 'drag and drop' shell script for quick conversion on macOS
