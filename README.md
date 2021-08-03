@@ -5,7 +5,7 @@
 *My Favorite Projects:*
 1. https://github.com/seankyer/csv_pdf_workflow
    1. CSV data extrapolator, to help improve workflow at Metro Printers
-   2. Includes 'drag and drop' shell script for quick conversion on macOS
+   2. Includes 'drag and drop' shell script for quick conversion on macOS using Automator
 
 2. https://github.com/seankyer/Pattern-Completion-App
    1. Web application which, given a set of user data, predicts the next set of inputs
