@@ -1,4 +1,4 @@
-### Hi there 👋
+### Greetings
 
 ## Welcome to my Github repository ⚡
 -------------------------------------
@@ -21,7 +21,7 @@
    
 #### Contact information ✨:
 * sean.actor@gmail.com
-* linkedin.com/in/seankyer
-* seankyer.com
+* [linkedin.com/in/seankyer](linkedin.com/in/seankyer)
+* [seankyer.com](seankyer.com)
 
-###### Thank you for taking the time to view my profile! 😄
+###### Thank you for taking the time to view my profile!
