@@ -2,6 +2,14 @@
 
 ## Welcome to my Github repository ⚡
 -------------------------------------
+*Companies I've worked at:*
+1. Robert Bosch Gmbh. - Embedded Systems Engineering
+   1. Worked on publically funded collaboriation between DLR, Q.ANT and Bosch to engineer a quantum gyroscope for space application
+2. Analog Devices, Inc. - Embedded Software Engineer
+   1. Worked on the development of cutting edge silicon for secure and power efficient SoCs for the intelligent edge
+3. Motorola Solutions, Inc. - Firmware Validator
+   1. Validated firmware releases for Motorola Solutions line of cutting edge, AI enabled, security cameras
+
 *Private Projects (Contact me for viewing):*
 1. CUrchinsOS - a multi-kernel, userspace operating system - C
    1. Created operating system on baremetal CPU; Developed with Qemu, deployed on Toradix Colibri
@@ -12,17 +20,17 @@
    1. Query engine capable of handling filters, aggregations and data manipulations
    2. REST based API connecting backend to HTML/JavaScript frontend
 
-*Some Public Projects of Mine:*
-1. [ArtGenerator (C++)](https://github.com/seankyer/ArtGenerator)
+*Some Public Hobby Projects of Mine:*
+1. [Robo-ARM (ZephyrOS)](https://github.com/seankyer/Robo-ARM)
+   1. Two-axis robotic arm written in ZephyrOS for nrf52840
+   2. Features inverse kinematics using graphing algorith (BFS)
+3. [ArtGenerator (C++)](https://github.com/seankyer/ArtGenerator)
    1. Created C++ program to generate simple artistic patterns to a file
-2. [Arduino Automatic Cat Feeder (C, 3D printing)](https://github.com/seankyer/AutoCatFeeder)
+4. [Arduino Automatic Cat Feeder (C, 3D printing)](https://github.com/seankyer/AutoCatFeeder)
    1. Arduino cat feeder with two modes for my two cats (one eats a lot, the other not so much)
    2. 3D printed the chasis of the device
    3. Soldered all components
-3. [SuChef (Java)](https://github.com/seankyer/SuChef)
-   1. Recipe manager, cooking assistant, made with Java
-   2. CPSC 210 project at UBC
-4. [PDF Workflow (Python)](https://github.com/seankyer/csv_pdf_workflow)
+5. [PDF Workflow (Python)](https://github.com/seankyer/csv_pdf_workflow)
    1. Example of workflow automation I created whilst at MetroPrinters.
 
 #### Contact information ✨:
