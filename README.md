@@ -3,10 +3,10 @@
 ## Welcome to my Github repository ⚡
 -------------------------------------
 *Companies I've worked at:*
-1. Robert Bosch Gmbh. - Embedded Systems Engineering
-   1. Worked on publically funded collaboriation between DLR, Q.ANT and Bosch to engineer a quantum gyroscope for space application
-2. Analog Devices, Inc. - Embedded Software Engineer
+1. Analog Devices, Inc. - Embedded Software Engineer
    1. Worked on the development of cutting edge silicon for secure and power efficient SoCs for the intelligent edge
+2. Robert Bosch Gmbh. - Embedded Systems Engineering
+   1. Worked on publically funded collaboriation between DLR, Q.ANT and Bosch to engineer a quantum gyroscope for space application
 3. Motorola Solutions, Inc. - Firmware Validator
    1. Validated firmware releases for Motorola Solutions line of cutting edge, AI enabled, security cameras
 
