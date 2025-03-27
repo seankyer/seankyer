@@ -23,7 +23,7 @@
 *Some Public Hobby Projects of Mine:*
 1. [Robo-ARM (ZephyrOS)](https://github.com/seankyer/Robo-ARM)
    1. Two-axis robotic arm written in ZephyrOS for nrf52840
-   2. Features inverse kinematics using graphing algorith (BFS)
+   2. Features inverse kinematics using graphing algorith (BFS or Greedy DFS)
 3. [ArtGenerator (C++)](https://github.com/seankyer/ArtGenerator)
    1. Created C++ program to generate simple artistic patterns to a file
 4. [Arduino Automatic Cat Feeder (C, 3D printing)](https://github.com/seankyer/AutoCatFeeder)
