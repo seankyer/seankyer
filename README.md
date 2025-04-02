@@ -8,10 +8,10 @@
 2. Robert Bosch Gmbh. - Embedded Systems Engineering
    1. Worked on publically funded collaboriation between DLR, Q.ANT and Bosch to engineer a quantum gyroscope for space application
 
-*Private Projects (Contact me for viewing):*
-1. CUrchinsOS - a multi-kernel, userspace operating system - C
-   1. Created operating system on baremetal CPU; Developed with Qemu, deployed on Toradix Colibri
-   2. Implemented Physical/Virtual Memory, Process Spawning, Multicore, Interprocess and Intercore communication
+*Private Projects (Due to licensing, contact me for viewing):*
+1. CUrchinsOS - a distributed-kernel, userspace operating system - C
+   1. Created operating system on baremetal CPU; Developed with QEMU and Toradix Colibri
+   2. Implemented Physical/Virtual Memory Management, Process Spawning, Interprocess and Intercore communication
    3. FAT-32 filesystem, distributed services, networking, shell
    4. UBC Course Code: CPSC-436a
 2. UBCInsightFacade - Fullstack database query engine - TypeScript
@@ -24,7 +24,7 @@
    2. Features inverse kinematics using graphing algorith (BFS or Greedy DFS)
 3. [ArtGenerator (C++)](https://github.com/seankyer/ArtGenerator)
    1. Created C++ program to generate simple artistic patterns to a file
-4. [Arduino Automatic Cat Feeder (C, 3D printing)](https://github.com/seankyer/AutoCatFeeder)
+4. [Arduino Auto Cat Feeder (C, 3D printing)](https://github.com/seankyer/AutoCatFeeder)
    1. Arduino cat feeder with two modes for my two cats (one eats a lot, the other not so much)
    2. 3D printed the chasis of the device
    3. Soldered all components
