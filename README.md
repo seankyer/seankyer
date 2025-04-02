@@ -7,8 +7,6 @@
    1. Worked on the development of cutting edge silicon for secure and power efficient SoCs for the intelligent edge
 2. Robert Bosch Gmbh. - Embedded Systems Engineering
    1. Worked on publically funded collaboriation between DLR, Q.ANT and Bosch to engineer a quantum gyroscope for space application
-3. Motorola Solutions, Inc. - Firmware Validator
-   1. Validated firmware releases for Motorola Solutions line of cutting edge, AI enabled, security cameras
 
 *Private Projects (Contact me for viewing):*
 1. CUrchinsOS - a multi-kernel, userspace operating system - C
