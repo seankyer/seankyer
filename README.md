@@ -1,4 +1,4 @@
-## Welcome to my Github ⚡
+## Welcome to my GitHub ⚡
 -------------------------------------
 *Companies I've worked at:*
 1. Analog Devices, Inc. - Embedded Software Engineer
