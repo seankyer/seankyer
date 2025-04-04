@@ -30,7 +30,6 @@
    1. Example of workflow automation I created whilst at MetroPrinters.
 
 ### Badges and Certifications
-[![Zephyr Certification]()]()
 <a href="https://www.credly.com/badges/7adc14bd-5d9e-4de2-bd75-387dfe34324d/public_url">
   <img src="https://images.credly.com/images/a77b7f85-70b0-42ab-9519-67ee509fbc0c/image.png" width="200">
 </a>
