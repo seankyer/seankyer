@@ -30,7 +30,7 @@
    1. Example of workflow automation I created whilst at MetroPrinters.
 
 ### Badges and Certifications
-[![Zephyr Certification](https://www.images.credly.com/badges/7adc14bd-5d9e-4de2-bd75-387dfe34324d/public_url)(https://www.credly.com/badges/7adc14bd-5d9e-4de2-bd75-387dfe34324d/public_url)
+[![Zephyr Certification](https://www.images.credly.com/badges/7adc14bd-5d9e-4de2-bd75-387dfe34324d/public_url)](https://www.credly.com/badges/7adc14bd-5d9e-4de2-bd75-387dfe34324d/public_url)
 
 #### Contact information ✨:
 * sean.actor@gmail.com
