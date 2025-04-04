@@ -29,6 +29,9 @@
 5. [PDF Workflow (Python)](https://github.com/seankyer/csv_pdf_workflow)
    1. Example of workflow automation I created whilst at MetroPrinters.
 
+### Badges and Certifications
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7adc14bd-5d9e-4de2-bd75-387dfe34324d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 #### Contact information ✨:
 * sean.actor@gmail.com
 * [linkedin.com/in/seankyer](linkedin.com/in/seankyer)
