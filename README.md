@@ -20,7 +20,7 @@
 1. [Robo-ARM (ZephyrOS)](https://github.com/seankyer/Robo-ARM)
    1. Two-axis robotic arm written in ZephyrOS for nrf52840
    2. Features inverse kinematics using graphing algorith (BFS or Greedy DFS)
-2. [LED-Goals](https://github.com/seankyer/LED-Goals)
+2. [LED-Goals (KiCad, Arduino)](https://github.com/seankyer/LED-Goals)
    1. Custom PCB design with Arduino and NeoPixel LED strip
 4. [ArtGenerator (C++)](https://github.com/seankyer/ArtGenerator)
    1. Created C++ program to generate simple artistic patterns to a file
