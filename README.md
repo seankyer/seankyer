@@ -22,15 +22,11 @@
    2. Features inverse kinematics using graphing algorith (BFS or Greedy DFS)
 2. [µRustOS (Rust, QEMU)](https://github.com/seankyer/microRustOS)
    1. Getting Rust to run on baremetal Cortex-M3
-2. [LED-Goals (KiCad, Arduino)](https://github.com/seankyer/LED-Goals)
+3. [LED-Goals (KiCad, Arduino)](https://github.com/seankyer/LED-Goals)
    1. Custom PCB design with Arduino and NeoPixel LED strip
 4. [ArtGenerator (C++)](https://github.com/seankyer/ArtGenerator)
    1. Created C++ program to generate simple artistic patterns to a file
-5. [Arduino Auto Cat Feeder (C, 3D printing)](https://github.com/seankyer/AutoCatFeeder)
-   1. Arduino cat feeder with two modes for my two cats (one eats a lot, the other not so much)
-   2. 3D printed the chasis of the device
-   3. Soldered all components
-6. [PDF Workflow (Python)](https://github.com/seankyer/csv_pdf_workflow)
+5. [PDF Workflow (Python)](https://github.com/seankyer/csv_pdf_workflow)
    1. Example of workflow automation I created whilst at MetroPrinters.
 
 ### Badges and Certifications
